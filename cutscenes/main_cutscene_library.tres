@@ -1,0 +1,8 @@
+[gd_resource type="AnimationLibrary" load_steps=2 format=3 uid="uid://b3s8ipu8a6yxw"]
+
+[ext_resource type="Animation" uid="uid://bjprrlpflrhef" path="res://cutscenes/main_cutscene.tres" id="1_4nyjl"]
+
+[resource]
+_data = {
+"main_cutscene": ExtResource("1_4nyjl")
+}
